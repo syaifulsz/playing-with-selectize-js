@@ -1,0 +1,65 @@
+state,state_slug,district,district_slug
+Kuala Lumpur,kuala-lumpur,Bukit Bintang,bukit-bintang
+Kuala Lumpur,kuala-lumpur,Titiwangsa,titiwangsa
+Kuala Lumpur,kuala-lumpur,Setiawangsa,setiawangsa
+Kuala Lumpur,kuala-lumpur,Wangsa Maju,wangsa-maju
+Kuala Lumpur,kuala-lumpur,Batu,batu
+Kuala Lumpur,kuala-lumpur,Kepong,kepong
+Kuala Lumpur,kuala-lumpur,Segambut,segambut
+Kuala Lumpur,kuala-lumpur,Lembah Pantai,lembah-pantai
+Kuala Lumpur,kuala-lumpur,Seputeh,seputeh
+Kuala Lumpur,kuala-lumpur,Bandar Tun Razak,bandar-tun-razak
+Kuala Lumpur,kuala-lumpur,Cheras,cheras
+Labuan,labuan,,
+Putrajaya,putrajaya,,
+Johor,johor,Batu Pahat,batu-pahat
+Johor,johor,Johor Bahru,johor-bahru
+Johor,johor,Kluang,kluang
+Johor,johor,Kota Tinggi,kota-tinggi
+Johor,johor,Kulaijaya,kulaijaya
+Johor,johor,Muar,muar
+Johor,johor,Segamat,segamat
+Kedah,kedah,Kota Setar,kota-setar
+Kedah,kedah,Kubang Pasu,kubang-pasu
+Kedah,kedah,Kulim,kulim
+Kedah,kedah,Kuala Muda,kuala-muda
+Kelantan,kelantan,Kota Bharu,kota-bharu
+Kelantan,kelantan,Pasir Mas,pasir-mas
+Melaka,melaka,Alor Gajah,alor-gajah
+Melaka,melaka,Melaka Sentral,melaka-sentral
+Negeri Sembilan,negeri-sembilan,Seremban,seremban
+Pahang,pahang,Kuantan,kuantan
+Pahang,pahang,Temerloh,temerloh
+Pulau Pinang,pulau-pinang,Seberang Perai,seberang-perai
+Pulau Pinang,pulau-pinang,Penang Selatan-Barat,penang-selatan-barat
+Pulau Pinang,pulau-pinang,Seberang Perai Sentral,seberang-perai-sentral
+Pulau Pinang,pulau-pinang,Seberang Perai Utara,seberang-perai-utara
+Pulau Pinang,pulau-pinang,Penang Utara-Timur,penang-utara-timur
+Pulau Pinang,pulau-pinang,Seberang Perai Selatan,seberang-perai-selatan
+Perak,perak,Kinta,kinta
+Perak,perak,Kerian,kerian
+Perak,perak,Manjung,manjung
+Perak,perak,Larut,larut
+Perak,perak,Matang,matang
+Perak,perak,Batang Padang,batang-padang
+Perak,perak,Hilir Perak,hilir-perak
+Perlis,perlis,Perlis,perlis
+Sabah,sabah,Keningau,keningau
+Sabah,sabah,Kota Kinabalu,kota-kinabalu
+Sabah,sabah,Lahad Datu,lahad-datu
+Sabah,sabah,Sandakan,sandakan
+Sabah,sabah,Tawau,tawau
+Sarawak,sarawak,Bintulu,bintulu
+Sarawak,sarawak,Kuching,kuching
+Sarawak,sarawak,Miri,miri
+Sarawak,sarawak,Sibu,sibu
+Selangor,selangor,Kuala Langat,kuala-langat
+Selangor,selangor,Hulu Langat,hulu-langat
+Selangor,selangor,Klang,klang
+Selangor,selangor,Hulu Selangor,hulu-selangor
+Selangor,selangor,Kuala Selangor,kuala-selangor
+Selangor,selangor,Gombak,gombak
+Selangor,selangor,Sepang,sepang
+Selangor,selangor,Petaling,petaling
+Terengganu,terengganu,Kemaman,kemaman
+Terengganu,terengganu,Kuala Terengganu,kuala-terengganu

@@ -11,35 +11,36 @@
 	<link rel="stylesheet" href="assets/selectize.js/dist/css/selectize.css">
 	<style>
 		.awesome-divider {
-            margin-top: 50px;
-            margin-bottom: 50px;
+            margin-top: 30px;
+            margin-bottom: 40px;
             position: relative;
         }
 
         .awesome-divider:after {
             content: ' ';
-            top: 17px;
+            top: 30px;
             left: 0;
             width: 100%;
             position: absolute;
-            height: 2px;
-            background-color: #ededed;
+            height: 4px;
+            background-color: #faebcc;
         }
 
         .awesome-divider span {
-            font-weight: bold;
+            color: #8a6d3b;
             position: relative;
             z-index: 1;
             display: block;
-            width: 35px;
-            height: 35px;
-            background-color: #d7d7d7;
+            width: 60px;
+            height: 60px;
+            background-color: #fcf8e3;
             border-radius: 50%;
             text-align: center;
-            line-height: 35px;
-            text-transform: lowercase;
+            line-height: 57px;
+            text-transform: uppercase;
             margin-left: auto;
             margin-right: auto;
+            border: 3px #FFFFFF solid;
         }
 	</style>
 
@@ -89,7 +90,7 @@ $output = $locationData;
 		<div class="col-md-offset-4 col-md-4">
 			<form>
 
-                <div class="alert alert-info">
+                <div class="alert alert-warning">
                     <p>Type in your location, state or district.</p>
                 </div><!-- .alert -->
 
@@ -103,10 +104,10 @@ $output = $locationData;
                     </select>
                 </div><!-- .form-group -->
 
-                <div class="awesome-divider"><span>Or</span></div>
+                <div class="awesome-divider"><span>or</span></div>
 
-                <div class="alert alert-info">
-                    <p>Select your location state first, then select district.</p>
+                <div class="alert alert-warning">
+                    <p>Or, select your location state first, then select district.</p>
                 </div><!-- .alert -->
 
 				<div class="form-group">
